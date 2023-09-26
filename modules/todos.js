@@ -16,7 +16,6 @@ export const toggleTodo = (id) => ({
 });
 
 const initialState = [
-
 ]
 
 export default function todos(state = initialState, action){
